@@ -1,0 +1,6 @@
+db.sqlite3
+home/migrations/
+blogs/migrations/
+blogs/__pycache__/
+home/__pycache__/
+portfolio/__pycache__/
